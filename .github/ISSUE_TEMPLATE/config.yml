@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Documentazione
+    url: https://github.com/quakef4/collezione-manager#readme
+    about: Consulta prima la documentazione nel README
+  - name: Discussioni
+    url: https://github.com/quakef4/collezione-manager/discussions
+    about: Per domande generali usa le Discussioni GitHub
